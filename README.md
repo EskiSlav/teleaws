@@ -4,7 +4,7 @@ This package implements method for interaction with Telegram and AWS APIs.
 
 ## Build
 ```bash
-git clone <repo_url>
+git clone https://github.com/EskiSlav/teleaws
 cd teleaws
 python -m build
 ```
